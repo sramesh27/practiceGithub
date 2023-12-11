@@ -14,6 +14,7 @@ const sortArr = (inputArr) => {
         }
     }
     return inputArr;
+    console.log(inputArr);
 }
 
 console.log(sortArr(unSortArr));
